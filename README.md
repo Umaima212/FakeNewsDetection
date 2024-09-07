@@ -1,0 +1,2 @@
+# FakeNewsDetection
+In the era of information overload, distinguishing between factual news and fake news has become increasingly challenging. This project aims to address this issue by developing an advanced fake news detection system. The project's goal is to improve public awareness and promote responsible information consumption by providing users with reliable tools to identify and filter out fake news
